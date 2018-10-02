@@ -1,0 +1,9 @@
+good              51   0 
+RandomError       4    20
+ValueError        4    40
+VaribleError      5    60
+RuntimeError      4    80
+UnknowError       5    100
+Exception         24   110 
+
+
